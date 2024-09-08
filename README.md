@@ -4,7 +4,7 @@
 
 El ipynb se utilizó varias veces para el Portafolio de Análisis. El reporte del ipynb utiliza los valores obtenidos para ese portafolio, pero añade los diferentes ajustes probados a lo largo de la realización del mismo. - Axel
 
-Liga al otro portafolio: https://github.com/Axel3246/TC3006C_Portafolio_de_Analisis_A00829837
+Liga al portafolio de Análisis: https://github.com/Axel3246/TC3006C_Portafolio_de_Analisis_A00829837
 
 ## Introduccion
 
